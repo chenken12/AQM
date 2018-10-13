@@ -9,8 +9,7 @@ public class HomeActivity extends AppCompatActivity {
     //private int SPLASH_TIME = 1000;
 
     @Override
-    //This whole Activity is for the load screen, trying to figure out a better way
-    //Running only in main crash program
+    //THis whole Activity is for the load screen, trying to figurer out a better
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
